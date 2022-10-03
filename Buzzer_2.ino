@@ -1,6 +1,7 @@
 /* 
 Fun boss button to demonstrate the risk of unauthorized and untested hardware :-)
 Tested on Windows 10 v. 21H2
+https://github.com/Terp1337/Boss_Buzzer_Button
 Version 2.01
 */ 
 
