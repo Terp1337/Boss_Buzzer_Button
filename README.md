@@ -8,6 +8,7 @@ A master switch for the boss to simply mute the meeting
   - [Motivation](#motivation)
   - [Function Description](#function-description)
   - [Hardware Requirement](#hardware-requirement)
+  - [Installation](#installation)
 
 ### Introduction
 Using the Digispark (which emulates a keyboard), a one button keyboard is built. 
